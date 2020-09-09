@@ -1,4 +1,4 @@
-#Python-Api-Challenge - What's the Weather Like
+# Python-Api-Challenge - What's the Weather Like
 
 # Background 
 The repo contains two notebooks WeatherPy- explores the way weather changes as we approach the equator - and VacationPy - plan future vacations given ideal weather conditions worldwide . 
@@ -15,7 +15,7 @@ In this example,created a Python script to visualize the weather of 500+ cities 
  * Used Google Places Api to find the first hotel for each city located within 5000 meters of the coordinates in the dataframe 
  * Created a map of the hotels on top of the humidity heatmap with each pin containing the Hotel Name ,City and Country
  
- #Analysis and Observation
+ # Analysis and Observation
  
 * Of the weather measures examined versus changes in latitude the strongest correlation was found between Northern Hemisphere changes in latitude versus temperature . This relationship has a high r-squared of 0.45 meaning 45% of the variance in this data . Of the other relationship examined there is some weak correlations .
 * Southern Hemisphere climates tend to be slightly milder than those at similar latitudes in the Northern Hemisphere. This is because the Southern Hemisphere has significantly more ocean and much less land; water heats up and cools down more slowly than land
