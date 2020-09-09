@@ -1,4 +1,4 @@
-## Python-Api-Challenge - What's the Weather Like
+#Python-Api-Challenge - What's the Weather Like
 
 # Background 
 The repo contains two notebooks WeatherPy- explores the way weather changes as we approach the equator - and VacationPy - plan future vacations given ideal weather conditions worldwide . 
